@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_portfolio_mvc",
+  "version": "1.0.0",
+  "description": "Crearemos un nuevo proyecto basado en la arquitectura MVC, iremos paso a paso construyendo un sitio basado en MVC.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emiliano G. Ferreyra",
+  "license": "ISC"
+}
