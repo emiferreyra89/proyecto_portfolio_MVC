@@ -1,0 +1,1 @@
+Crearemos un nuevo proyecto basado en la arquitectura MVC, iremos paso a paso construyendo un sitio basado en MVC.
